@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Sistemas de Informação na FIAP com foco em desenvolvimento back-end.<br>🔄 Estagiando em Suporte TI .<br>🌱 Aprimorando habilidades em Java, PhP, Python e banco de dados.<br>🔍 Em busca de oportunidades na área de desenvolvimento back-end para aplicar e expandir meu conhecimento.</p>
+<p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Sistemas de Informação na FIAP <br>🔄 Estagiando.<br>🌱 Aprimorando habilidades em Java, Javascript, Python e banco de dados.<br></p>
 
 ###
 
