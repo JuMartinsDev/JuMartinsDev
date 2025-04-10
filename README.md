@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Sistemas de Informação na FIAP <br>🔄 Estagiando.<br>🌱 Aprimorando habilidades em Java, Javascript, Python e banco de dados.<br></p>
+<p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Sistemas de Informação na FIAP <br>🔄 Estagiando.<br>🌱 Aprimorando habilidades em Java, Javascript, Gestão de projetos e Análise de Dados.<br></p>
 
 ###
 
