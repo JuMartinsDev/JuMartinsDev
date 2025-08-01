@@ -24,7 +24,7 @@ Atualmente, estou estagiando e aprimorando minhas habilidades em linguagens como
 🚀 Aprimorando habilidades em:  
 → Power Query • JavaScript • Angular  
 → Gestão de Projetos • Análise de Dados  
-→ Desenvolvimento Web • Backend em C#
+→ Desenvolvimento •  C# • .NET • WinForm
 
 ---
 
