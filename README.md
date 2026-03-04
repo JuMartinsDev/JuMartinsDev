@@ -81,7 +81,7 @@ Atuo desde o **tratamento e modelagem de dados** até a **visualização e inter
 
 ## 📬 Contato
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:contato.julia.maa77@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
